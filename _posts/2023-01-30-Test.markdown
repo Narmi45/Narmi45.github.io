@@ -1,1 +1,3 @@
-hello there, this is a test, stop watching me furq
+![image test](/img/test.png)
+
+hello there, this is a test
